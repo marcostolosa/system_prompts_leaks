@@ -1,5 +1,3 @@
-# Excel Spreadsheet Handler (/mnt/skills/public/xlsx/SKILL.md)
-
 ---
 name: Excel Spreadsheet Handler
 description: Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization
